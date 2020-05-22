@@ -3,7 +3,7 @@
 The fundamental operations in the SLAM.
 
 ## Requirements
-### Eigen
+### Eigen Package
 #### Install
 ```
 sudo apt-get install libeigen3-dev
@@ -17,7 +17,7 @@ locate eigen3
 default location "/usr/include/eigen3"
 
 
-### OpenGL (use pangolin)
+### OpenGL Package (use pangolin)
 #### Download
 https://github.com/stevenlovegrove/Pangolin
 
