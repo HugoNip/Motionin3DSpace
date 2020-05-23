@@ -1,5 +1,5 @@
 # Motionin3DSpace
-## Introductin
+## Introduction
 The fundamental operations in the SLAM.
 
 ## Requirements
